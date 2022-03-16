@@ -1,0 +1,12 @@
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/bin/Debug/net6.0/TreeShelter.Repository.deps.json
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/bin/Debug/net6.0/TreeShelter.Repository.dll
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/bin/Debug/net6.0/ref/TreeShelter.Repository.dll
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/bin/Debug/net6.0/TreeShelter.Repository.pdb
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/obj/Debug/net6.0/TreeShelter.Repository.csproj.AssemblyReference.cache
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/obj/Debug/net6.0/TreeShelter.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/obj/Debug/net6.0/TreeShelter.Repository.AssemblyInfoInputs.cache
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/obj/Debug/net6.0/TreeShelter.Repository.AssemblyInfo.cs
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/obj/Debug/net6.0/TreeShelter.Repository.csproj.CoreCompileInputs.cache
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/obj/Debug/net6.0/TreeShelter.Repository.dll
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/obj/Debug/net6.0/ref/TreeShelter.Repository.dll
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/obj/Debug/net6.0/TreeShelter.Repository.pdb
