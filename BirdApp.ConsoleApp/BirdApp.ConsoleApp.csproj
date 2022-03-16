@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\TreeShelter.Repository\TreeShelter.Repository.csproj" />
+    <ProjectReference Include="..\BirdApp.Repository\BirdApp.Repository.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

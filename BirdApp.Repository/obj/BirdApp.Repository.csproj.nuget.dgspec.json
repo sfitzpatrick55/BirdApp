@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/TreeShelter.Repository.csproj": {}
+    "/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/BirdApp.Repository.csproj": {}
   },
   "projects": {
-    "/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/TreeShelter.Repository.csproj": {
+    "/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/BirdApp.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/TreeShelter.Repository.csproj",
-        "projectName": "TreeShelter.Repository",
-        "projectPath": "/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/TreeShelter.Repository.csproj",
+        "projectUniqueName": "/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/BirdApp.Repository.csproj",
+        "projectName": "BirdApp.Repository",
+        "projectPath": "/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/BirdApp.Repository.csproj",
         "packagesPath": "/Users/scottfitz/.nuget/packages/",
-        "outputPath": "/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/obj/",
+        "outputPath": "/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/scottfitz/.nuget/NuGet/NuGet.Config"

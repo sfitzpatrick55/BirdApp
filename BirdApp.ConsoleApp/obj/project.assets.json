@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/TreeShelter.Repository.csproj",
-      "projectName": "TreeShelter.Repository",
-      "projectPath": "/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/TreeShelter.Repository.csproj",
+      "projectUniqueName": "/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.ConsoleApp/BirdApp.ConsoleApp.csproj",
+      "projectName": "BirdApp.ConsoleApp",
+      "projectPath": "/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.ConsoleApp/BirdApp.ConsoleApp.csproj",
       "packagesPath": "/Users/scottfitz/.nuget/packages/",
-      "outputPath": "/Users/scottfitz/Documents/ElevenFiftyAcademy129/TreeShelter/TreeShelter.Repository/obj/",
+      "outputPath": "/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.ConsoleApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/scottfitz/.nuget/NuGet/NuGet.Config"
