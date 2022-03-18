@@ -137,7 +137,7 @@ namespace BirdApp.ConsoleApp
 
         public void BirdToDelete()
         {
-            Console.WriteLine("DELETE a bird: ");
+            Console.WriteLine("\nDELETE a bird: ");
         }
 
         public void SuccessDeleted(Bird bird)
