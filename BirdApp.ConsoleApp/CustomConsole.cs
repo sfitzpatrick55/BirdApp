@@ -122,7 +122,7 @@ namespace BirdApp.ConsoleApp
 
         public void CouldntFindBird()
         {
-            Console.WriteLine("Sorry, we could not find this bird in our database.");
+            Console.WriteLine("\nSorry, we could not find this bird in our database.");
         }
 
         public void BirdToEdit()
