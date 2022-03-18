@@ -41,14 +41,14 @@ namespace BirdApp.ConsoleApp
 
         public void Species()
         {
-            Console.WriteLine("Species: ");
+            Console.WriteLine("\nSpecies: ");
         }
 
         public void AllAgeList()
         {
             Console.WriteLine
             (
-            "Age:\n" +
+            "\nAge:\n" +
             "1. Hatching year\n" +
             "2. After hatching year\n" +
             "3. Second year\n" +
@@ -64,7 +64,7 @@ namespace BirdApp.ConsoleApp
         {
             Console.WriteLine
             (
-            "Does bird show signs of body molt?\n" +
+            "\nDoes bird show signs of body molt?\n" +
             "1. Yes\n" +
             "2. No\n"
             );
@@ -74,7 +74,7 @@ namespace BirdApp.ConsoleApp
         {
             Console.WriteLine
             (
-            "Does bird show signs of flight feather wear?\n" +
+            "\nDoes bird show signs of flight feather wear?\n" +
             "1. Yes\n" +
             "2. No\n"
             );
@@ -82,17 +82,17 @@ namespace BirdApp.ConsoleApp
 
         public void Wing()
         {
-            Console.WriteLine("Length of single wing (mm): ");
+            Console.WriteLine("\nLength of single wing (mm): ");
         }
 
         public void Mass()
         {
-            Console.WriteLine("Mass of bird (g): ");
+            Console.WriteLine("\nMass of bird (g): ");
         }
 
         public void Net()
         {
-            Console.WriteLine("Which net was bird retrieved from? (1-14): ");
+            Console.WriteLine("\nWhich net was bird retrieved from? (1-14): ");
         }
 
         public void SelectAge()
@@ -103,8 +103,8 @@ namespace BirdApp.ConsoleApp
         public void PrintABird(Bird bird)
         {
             Console.WriteLine
-            (
-            $"\nBand Number: {bird.BandNumber}\n" +
+            ("\n" +
+            $"Band Number: {bird.BandNumber}\n" +
             $"Species: {bird.SpeciesName}\n" +
             $"Age: {bird.BirdAge}\n" +
             $"Body Molt: {bird.BodyMolt}\n" +
@@ -127,7 +127,7 @@ namespace BirdApp.ConsoleApp
 
         public void BirdToEdit()
         {
-            Console.WriteLine("EDIT a bird: ");
+            Console.WriteLine("\nEDIT a bird: ");
         }
         
         public void SuccessUpdated(Bird bird)
