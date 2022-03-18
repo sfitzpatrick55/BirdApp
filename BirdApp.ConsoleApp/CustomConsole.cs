@@ -59,6 +59,10 @@ namespace BirdApp.ConsoleApp
             "8. Not attempted\n"
             );
         }
+        public void SelectAge()
+        {
+            Console.WriteLine("Select age from above list: ");
+        }
 
         public void Molting()
         {
@@ -95,10 +99,6 @@ namespace BirdApp.ConsoleApp
             Console.WriteLine("\nWhich net was bird retrieved from? (1-14): ");
         }
 
-        public void SelectAge()
-        {
-            Console.WriteLine("Select Age: ");
-        }
 
         public void PrintABird(Bird bird)
         {

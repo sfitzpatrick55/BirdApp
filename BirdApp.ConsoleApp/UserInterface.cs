@@ -212,8 +212,8 @@ namespace BirdApp.ConsoleApp
                 _console.Species();
                 string speciesName = GetUserInput();
 
-                _console.SelectAge();
                 _console.AllAgeList();
+                _console.SelectAge();
                 string ageSelection = GetUserInput();
 
                 Age birdAge = Age.Hatching_Year;
