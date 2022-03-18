@@ -13,9 +13,10 @@ namespace BirdApp.ConsoleApp
             Console.WriteLine
             (
             "\nWelcome to the MAPS Bird Banding Console!\n" +
+            "\n" +
             "Please select from the following options:\n" +
             "1. View all birds in the database.\n" +
-            "2. View bird by band number.\n" +
+            "2. Search bird by band number.\n" +
             "3. Add a new bird to the database.\n" +
             "4. Edit an existing bird in the database.\n" +
             "5. Delete a bird from the database.\n" +
@@ -147,7 +148,7 @@ namespace BirdApp.ConsoleApp
         public void ExitApplication()
         {
             Console.WriteLine
-            (
+            ("\n" +
             "Thank you visiting the MAPS Bird Banding Console!\n" +
             "Press any key to EXIT..."
             );
