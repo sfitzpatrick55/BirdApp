@@ -9,7 +9,7 @@ namespace BirdApp.ConsoleApp
         {
             UserInterface _birdUI = new UserInterface();
 
-            _birdUI.Run();
+            _birdUI.Fly();
         }
     }
 }

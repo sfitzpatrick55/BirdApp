@@ -1,0 +1,12 @@
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/bin/Debug/net6.0/BirdApp.Repository.deps.json
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/bin/Debug/net6.0/BirdApp.Repository.dll
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/bin/Debug/net6.0/ref/BirdApp.Repository.dll
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/bin/Debug/net6.0/BirdApp.Repository.pdb
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/obj/Debug/net6.0/BirdApp.Repository.csproj.AssemblyReference.cache
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/obj/Debug/net6.0/BirdApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/obj/Debug/net6.0/BirdApp.Repository.AssemblyInfoInputs.cache
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/obj/Debug/net6.0/BirdApp.Repository.AssemblyInfo.cs
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/obj/Debug/net6.0/BirdApp.Repository.csproj.CoreCompileInputs.cache
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/obj/Debug/net6.0/BirdApp.Repository.dll
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/obj/Debug/net6.0/ref/BirdApp.Repository.dll
+/Users/scottfitz/Documents/ElevenFiftyAcademy129/BirdApp/BirdApp.Repository/obj/Debug/net6.0/BirdApp.Repository.pdb

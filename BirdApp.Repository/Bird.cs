@@ -13,7 +13,7 @@ namespace BirdApp.Repository
         public Age BirdAge { get; set; } // See enum Age reference above.
         public bool BodyMolt { get; set; } // Signs of body molt, true/false.
         public bool FlightFeatherWear { get; set; } // Signs of flight feather wear, true/false.
-        public int WingLength { get; set; } // Length of one wing, recorded in centimeters.
+        public int WingLength { get; set; } // Length of one wing, recorded in mm.
         public double BodyMass { get; set; } // Weight of bird, recorded in grams with one decimal allowed.
         public int NetNumber { get; set; } // Net number where bird was retrieved, 1 - 14.
 
@@ -29,5 +29,7 @@ namespace BirdApp.Repository
             BodyMass = bodyMass;
             NetNumber = netNumber;
         }
+
+        
     }
 }

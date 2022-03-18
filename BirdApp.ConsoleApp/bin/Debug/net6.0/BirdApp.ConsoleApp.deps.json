@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BirdApp.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "BirdApp.Repository": "1.0.0"
+        },
+        "runtime": {
+          "BirdApp.ConsoleApp.dll": {}
+        }
+      },
+      "BirdApp.Repository/1.0.0": {
+        "runtime": {
+          "BirdApp.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BirdApp.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BirdApp.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
