@@ -51,6 +51,7 @@ namespace BirdApp.ConsoleApp
                     DeleteBird();
                     break;
                 case "6":
+                    isFlying = false;
                     ExitApplication();
                     break;
                 default:
