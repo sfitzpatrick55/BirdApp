@@ -31,7 +31,7 @@ namespace BirdApp.ConsoleApp
 
         public void CreateNewBird()
         {
-            Console.WriteLine("Create a NEW BIRD: ");
+            Console.WriteLine("\nCreate a NEW BIRD: ");
         }
 
         public void BandNumber()
@@ -123,6 +123,10 @@ namespace BirdApp.ConsoleApp
         public void CouldntFindBird()
         {
             Console.WriteLine("\nSorry, we could not find this bird in our database.");
+        }
+        public void SuccessAdded(Bird bird)
+        {
+            Console.WriteLine("\n" + $"Successfully added bird with band number {bird.BandNumber}");
         }
 
         public void BirdToEdit()

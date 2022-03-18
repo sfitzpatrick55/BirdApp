@@ -62,7 +62,6 @@ namespace BirdApp.ConsoleApp
         private void CreateBird()
         {
             _console.CreateNewBird();
-
             _console.BandNumber();
             int bandNumber = Convert.ToInt32(GetUserInput());
 
@@ -71,7 +70,6 @@ namespace BirdApp.ConsoleApp
 
             _console.AllAgeList();
             _console.SelectAge();
-
             string ageSelection = GetUserInput();
 
             Age birdAge = Age.Hatching_Year;
@@ -152,6 +150,10 @@ namespace BirdApp.ConsoleApp
             Bird newBird = new Bird(bandNumber, speciesName, birdAge, bodyMolt, flightFeatherWear, wingLength, bodyMass, netNumber);
 
             _repository.AddBirdToList(newBird);
+
+            _console.SuccessAdded(newBird);
+            _console.PressAnyKey();
+            Console.ReadKey();
         }
 
         private void PrintBird(Bird bird)
