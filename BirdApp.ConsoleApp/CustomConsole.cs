@@ -132,7 +132,7 @@ namespace BirdApp.ConsoleApp
         
         public void SuccessUpdated(Bird bird)
         {
-            Console.WriteLine($"Successfully updated bird with band number {bird.BandNumber}");
+            Console.WriteLine("\n" + $"Successfully updated bird with band number {bird.BandNumber}");
         }
 
         public void BirdToDelete()
@@ -142,7 +142,7 @@ namespace BirdApp.ConsoleApp
 
         public void SuccessDeleted(Bird bird)
         {
-            Console.WriteLine($"Successfully deleted bird with band number {bird.BandNumber}");
+            Console.WriteLine("\n" + $"Successfully deleted bird with band number {bird.BandNumber}");
         }
 
         public void ExitApplication()
