@@ -26,7 +26,7 @@ namespace BirdApp.ConsoleApp
 
         public void EnterSelection()
         {
-            Console.WriteLine("Enter Selection: ");
+            Console.WriteLine("Enter selection number: ");
         }
 
         public void CreateNewBird()
